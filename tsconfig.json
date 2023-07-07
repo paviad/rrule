@@ -7,6 +7,7 @@
     "noEmitOnError": true,
     "esModuleInterop": true,
     "target": "es6",
+    "lib": ["es2016"],
     "baseUrl": ".",
     "rootDirs": ["./src/", "./test/"]
   },
